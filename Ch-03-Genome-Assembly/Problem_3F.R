@@ -4,6 +4,8 @@
 #Input: An adjacency list (Eulerian directed graph)
 #Output: A Eulerian cycle in this graph
 
+#Required Packages#
+library(stringr)
 
 #Input#
 
